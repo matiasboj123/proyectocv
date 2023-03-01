@@ -1,0 +1,72 @@
+
+*{
+    color: blue;
+}
+
+p, span{
+    color:red;
+    width: 300px;
+}
+
+/**
+Esto es un comentario dentro de un documento CSS
+*/
+h1{
+    font-family: 'EB Garamond', serif;
+    border: 10px solid rgba(248, 252, 32, 0.664);
+    margin-top:40px ;
+    margin-bottom: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-weight: 
+    bold;
+    color: rgb(37, 153, 66);
+}
+
+h2{
+    font-family: 'EB Garamond', serif;
+    border: 10px solid rgba(32, 252, 69, 0.808);
+    margin-top:40px ;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 1050px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-weight: 
+    bold;
+    color: rgba(89, 35, 216, 0.61);
+}
+
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_parrafo{
+    color: yellow;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+.estaesmiclase {
+    font-weight: bold;
+    color: lightblue
+}
+
+img {
+display: block;
+margin: auto;    
+}
+/**
+section h1{
+    font-size: 400px;
+}
+*/
